@@ -20,6 +20,6 @@ for(user of users ){
 
 
     `;
-    usersContainer.appendChild(userDiv);
+    usersContainer.appendChild(userDiv); 
 }
 }
